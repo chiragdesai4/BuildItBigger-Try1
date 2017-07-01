@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Build it Bigger</string>
+    <string name="instructions">Press the button for a delicious joke!</string>
+    <string name="button_text">Tell Joke</string>
+    <string name="action_settings">Settings</string>
+    <string name="banner_ad_unit_id">ca-app-pub-5042733294649262/4170748036</string>
+    <string name="interstitial_test_ad_id">ca-app-pub-5042733294649262/1980834430</string>
+</resources>
